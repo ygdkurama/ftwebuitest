@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FT项目" parallel="false">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+    </listeners>
+
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://dianpings.com/"/>
+
+    <test name="Review moudle">
+        <classes>
+            <class name="cases.TestCase1"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map><!-- dianpingH5系统元素 -->
+
+    <page pageName="Review"><!-- 点评页面 -->
+        <!--position lists -->
+        <position type="classname" timeOut="3" value="card_listReviewCard__QvHn6">展示卡片</position>
+        <position type="xpath" timeOut="3" value="/html/body/div/div[3]/main/div[2]/div[1]/input">查询输入框</position>
+        <position type="xpath" timeOut="3" value="/html/body/div/div[3]/main/div[2]/div[1]/button">搜索按钮</position>
+    </page>
+
+
+
+</map>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Review moudle"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.692">
+  <properties />
+  
+  
+            <testcase name="getCards" time="0.226" classname="cases.TestCase1" />
+                <testcase name="searchKeyword" time="1.441" classname="cases.TestCase1" />
+                <testcase name="searchKeyword" time="1.594" classname="cases.TestCase1" />
+                <testcase name="searchKeyword" time="1.431" classname="cases.TestCase1" />
+      
+</testsuite>
