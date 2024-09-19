@@ -38,16 +38,6 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 http://117.161.12.118/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1  tvg-name="BestTV全球大片" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/bestv全球大片.png"  group-title="💓专享源🅰️",BestTV全球大片
 http://117.161.12.118/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="💓专享源🅰️",🔁周星星
-http://11.xmyxc.cn/api/php/yy.php?id=1354658049
-#EXTINF:-1 group-title="💓专享源🅰️",▶️(2024)哥斯拉大战金刚2：帝国崛起
-https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
-#EXTINF:-1 group-title="💓专享源🅰️",▶️(2024)异形寄生:起源
-https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
-#EXTINF:-1 group-title="💓专享源🅰️",▶️星际穿越
-https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-#EXTINF:-1  tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png"  group-title="💓专享源🅰️",CHC影迷电影
-https://stream1.freetv.fun/chcgao-qing-dian-ying-8.ctv
 #EXTINF:-1 group-title="💓专享源🅱️",欧美大片✔原
 http://159.75.85.63:35455/douyu/2793084
 #EXTINF:-1 group-title="💓专享源🅱️",贝爷max✔原
